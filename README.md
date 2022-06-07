@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sarisha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Front end web dev
+- 👀 I’m interested in web development👩🏽‍💻
+- ✨ I’m currently learning Front end web dev💻
+-  I ❤️ plants🌱, music🎧 and art🪄
 
 
 <!---
