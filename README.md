@@ -1,9 +1,9 @@
 
-
 <h1>Hello World,</h1>
 <h3>I’m Sarisha</h3>
-<p style="color:red;">currently learning Front end web dev💻✨</p>
+<h3 style="color:red;">currently learning Front end web dev💻✨</h3>
 <h4>❤️plants🌱, music🎧 and art🪄</h4>
+
 
 
 
